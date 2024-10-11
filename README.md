@@ -64,8 +64,3 @@ As I no longer have access to Amazon S3 due to the expiration of my free trial, 
 ## Conclusion
 
 This project serves as a foundational example of building an ETL pipeline using Airflow, highlighting how to automate data extraction from an API and store it in cloud storage. Future enhancements could include re-enabling the S3 integration and adding additional data transformation steps.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
